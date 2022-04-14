@@ -1,1 +1,1 @@
-# over40-compass-event
+# over40-connpass-event
